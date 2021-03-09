@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 File for merge conflict
-=======
 Merge conflict file in delivery
->>>>>>> delivery
